@@ -1,3 +1,3 @@
 + # PROBLEM SOLVING 
-+ 1. Some Problem Solved From Various Online Judge 
-+ 2.SOme important books
++ 1.Some Problem Solved From Various Online Judge 
++ 2.Some important books
